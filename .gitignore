@@ -1,0 +1,14 @@
+.history/
+.idea/
+node_modules/
+web/bin/
+web/obj
+database/bin/
+database/obj
+tests/bin/
+tests/obj
+gql.model/bin/      
+gql.model/obj       
+package-lock.json
+omnisharp.json
+*.dll
